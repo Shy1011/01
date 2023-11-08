@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1aab05197dceb6fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "嵌入式面试/02 模电.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b5da0c1b1de250b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "嵌入式面试/02 操作系统面试题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b8852bb5512a154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c475eb2f1a50d7ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "经纬恒润PPT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "经纬恒润PPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "经纬恒润PPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "经纬恒润PPT.md"
               }
             }
           },
@@ -202,6 +165,8 @@
   },
   "active": "c475eb2f1a50d7ce",
   "lastOpenFiles": [
+    "01 今天学了什么.md",
+    "Readme.md",
     "面试.md",
     "01 Plan.md",
     "C.md",
@@ -209,8 +174,6 @@
     "嵌入式面试/IIC.md",
     "嵌入式面试/三极管.md",
     "嵌入式面试/02 PIC单片机.md",
-    "嵌入式面试/02 C语言面试题.md",
-    "嵌入式面试/02 C语言基础.md",
-    "嵌入式面试/02 微芯.md"
+    "嵌入式面试/02 C语言面试题.md"
   ]
 }
