@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "经纬恒润PPT.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4cbf58248ceb1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "经纬恒润PPT.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "经纬恒润PPT.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "经纬恒润PPT.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -163,17 +176,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c475eb2f1a50d7ce",
+  "active": "b4cbf58248ceb1b3",
   "lastOpenFiles": [
-    "01 今天学了什么.md",
     "Readme.md",
-    "面试.md",
+    "Github/Github.md",
+    "看病.md",
+    "经纬恒润PPT.md",
+    "01 今天学了什么.md",
     "01 Plan.md",
     "C.md",
     "嵌入式面试/SPI.md",
     "嵌入式面试/IIC.md",
-    "嵌入式面试/三极管.md",
-    "嵌入式面试/02 PIC单片机.md",
-    "嵌入式面试/02 C语言面试题.md"
+    "嵌入式面试/三极管.md"
   ]
 }
