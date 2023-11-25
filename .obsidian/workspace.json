@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cd6c53b80ad37ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内网穿透.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式面试/LDO 与 DC DC.md",
+                "file": "内网穿透.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式面试/LDO 与 DC DC.md",
+                "file": "内网穿透.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式面试/LDO 与 DC DC.md"
+                "file": "内网穿透.md"
               }
             }
           },
@@ -204,7 +215,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "canvas:Create new canvas": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -213,7 +224,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f8c368c48a9f52a",
+  "active": "6cd6c53b80ad37ff",
   "lastOpenFiles": [
     "健身/健身.md",
     "Socket编程/Socket.md",
@@ -224,7 +235,6 @@
     "微芯面试.md",
     "Readme.md",
     "Autocad/入门.md",
-    "3D建模/Introduction.md",
-    "嵌入式面试/02 微芯.md"
+    "3D建模/Introduction.md"
   ]
 }
