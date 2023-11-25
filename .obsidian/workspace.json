@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "35ef020410a3c952",
+        "id": "b33677ce664a00db",
         "type": "tabs",
         "children": [
           {
-            "id": "c475eb2f1a50d7ce",
+            "id": "04d1a97b5433144a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "健身/健身.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "009318f018d61c71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Socket编程/Socket.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f8c368c48a9f52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "嵌入式面试/LDO 与 DC DC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4cbf58248ceb1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "嵌入式面试/IIC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18beddb26cf3ca59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "特斯拉.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd6c53b80ad37ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "内网穿透.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内网穿透.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内网穿透.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内网穿透.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -224,8 +163,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6cd6c53b80ad37ff",
+  "active": "04d1a97b5433144a",
   "lastOpenFiles": [
+    "内网穿透.md",
     "健身/健身.md",
     "Socket编程/Socket.md",
     "01 今天学了什么.md",
@@ -234,7 +174,6 @@
     "特斯拉.md",
     "微芯面试.md",
     "Readme.md",
-    "Autocad/入门.md",
-    "3D建模/Introduction.md"
+    "Autocad/入门.md"
   ]
 }
