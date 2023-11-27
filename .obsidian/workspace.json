@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "嵌入式面试/02 模电.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "嵌入式面试/02 模电.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "嵌入式面试/02 模电.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "嵌入式面试/02 模电.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,15 +166,15 @@
   },
   "active": "04d1a97b5433144a",
   "lastOpenFiles": [
-    "内网穿透.md",
-    "健身/健身.md",
-    "Socket编程/Socket.md",
-    "01 今天学了什么.md",
+    "嵌入式面试/LDO 与 DC DC.md",
+    "未命名.md",
     "01 Plan.md",
-    "看病.md",
-    "特斯拉.md",
-    "微芯面试.md",
-    "Readme.md",
-    "Autocad/入门.md"
+    "Solidworks/assets/2023-11-27_125509.png",
+    "Solidworks/Solidworks.md",
+    "漫画电子电路/2023年11月27日.md",
+    "内网穿透.md",
+    "嵌入式面试/02 C语言面试题.md",
+    "嵌入式面试/02 C语言基础.md",
+    "Readme.md"
   ]
 }
