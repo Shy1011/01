@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac39b93030efb06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "微芯面试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a7ac1d129e09a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精控集成工作/电源芯片测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "594d41234dff0118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "精控集成工作/一些常用术语.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "精控集成工作/一些常用术语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式面试/02 模电.md",
+                "file": "精控集成工作/一些常用术语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式面试/02 模电.md"
+                "file": "精控集成工作/一些常用术语.md"
               }
             }
           },
@@ -164,17 +201,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "04d1a97b5433144a",
+  "active": "594d41234dff0118",
   "lastOpenFiles": [
-    "嵌入式面试/02 数电.md",
-    "嵌入式面试/02 模电.md",
-    "嵌入式面试/02 面试可能的问题.md",
-    "嵌入式面试/02 操作系统面试题.md",
-    "嵌入式面试/01 Plan.md",
-    "嵌入式面试/02 PIC单片机.md",
-    "嵌入式面试/LDO 与 DC DC.md",
-    "未命名.md",
+    "精控集成工作/电源芯片测试.md",
+    "精控集成工作/一些常用术语.md",
+    "微芯面试.md",
+    "CI2454/assets/Ci2454_数据手册_brief_V1_3.pdf",
+    "CI2454/CI2454.md",
+    "遥控器/芯片.md",
+    "Readme.md",
     "01 Plan.md",
-    "Solidworks/assets/2023-11-27_125509.png"
+    "01 今天学了什么.md",
+    "内网穿透.md"
   ]
 }
