@@ -1,1 +1,0 @@
-[如何安装Solidworks](assets/2023-11-27_125509.png)
