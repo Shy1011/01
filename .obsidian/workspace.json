@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Altium Design/PCB设计11小时.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e80bcf0bfd5af4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Altium Design/01 其他注意点.md",
                 "mode": "source",
                 "source": false
@@ -20,12 +32,24 @@
             }
           },
           {
-            "id": "246d3ac8bb86e51a",
+            "id": "f4888b44f5851d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Altium Design/快捷键.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "372e37ed9c0cc7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Altium Design/01 资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#第九",
+                "query": "dwg",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altium Design/01 其他注意点.md",
+                "file": "Altium Design/PCB设计11小时.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altium Design/01 其他注意点.md",
+                "file": "Altium Design/PCB设计11小时.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altium Design/01 其他注意点.md"
+                "file": "Altium Design/PCB设计11小时.md"
               }
             }
           },
@@ -177,15 +201,15 @@
   },
   "active": "b960ac271e789d3a",
   "lastOpenFiles": [
-    "Altium Design/PCB设计11小时.md",
-    "Readme.md",
     "Altium Design/快捷键.md",
-    "01 Plan.md",
-    "学习资源.md",
-    "微芯面试.md",
-    "Altium Design/01 其他注意点.md",
-    "嵌入式面试/IIC.md",
+    "Altium Design/PCB设计11小时.md",
+    "Altium Design/01 资源.md",
+    "iclib.cn.md",
     "Altium Design/PCB设计前知识扫盲.md",
-    "Altium Design/02 Altium Design 22 设计.md"
+    "Altium Design/02 Altium Design 22 设计.md",
+    "Altium Design/01 其他注意点.md",
+    "01 Plan.md",
+    "Buck_Boost/降压升压电路.md",
+    "面试问题总结/PCB封装.md"
   ]
 }
