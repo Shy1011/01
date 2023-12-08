@@ -13,43 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altium Design/PCB设计11小时.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e80bcf0bfd5af4e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altium Design/01 其他注意点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4888b44f5851d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altium Design/快捷键.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "372e37ed9c0cc7d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altium Design/01 资源.md",
+                "file": "Buck_Boost/基本原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dwg",
+                "query": "IPC",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altium Design/PCB设计11小时.md",
+                "file": "Buck_Boost/基本原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altium Design/PCB设计11小时.md",
+                "file": "Buck_Boost/基本原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altium Design/PCB设计11小时.md"
+                "file": "Buck_Boost/基本原理.md"
               }
             }
           },
@@ -201,15 +165,15 @@
   },
   "active": "b960ac271e789d3a",
   "lastOpenFiles": [
-    "Altium Design/快捷键.md",
-    "Altium Design/PCB设计11小时.md",
-    "Altium Design/01 资源.md",
-    "iclib.cn.md",
-    "Altium Design/PCB设计前知识扫盲.md",
-    "Altium Design/02 Altium Design 22 设计.md",
-    "Altium Design/01 其他注意点.md",
-    "01 Plan.md",
+    "烧录出现问题/电机测试.md",
     "Buck_Boost/降压升压电路.md",
-    "面试问题总结/PCB封装.md"
+    "烧录出现问题/灯带测试板.md",
+    "01 Plan.md",
+    "Buck_Boost/基本原理.md",
+    "iclib.cn.md",
+    "Altium Design/PCB设计11小时.md",
+    "Altium Design/快捷键.md",
+    "Altium Design/01 资源.md",
+    "Altium Design/01 其他注意点.md"
   ]
 }
