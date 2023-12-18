@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d063601603434470",
+        "id": "b33677ce664a00db",
         "type": "tabs",
         "children": [
           {
-            "id": "d72bc8fe5b0219e5",
+            "id": "04d1a97b5433144a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multisim/示波器.md",
+                "file": "01 Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Boost",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multisim/示波器.md",
+                "file": "01 Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multisim/示波器.md",
+                "file": "01 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multisim/示波器.md"
+                "file": "01 Plan.md"
               }
             }
           },
@@ -150,11 +150,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Create new canvas": false,
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -163,17 +164,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d72bc8fe5b0219e5",
+  "active": "04d1a97b5433144a",
   "lastOpenFiles": [
-    "Buck_Boost/Boost升压电路.md",
-    "Multisim/示波器.md",
-    "Buck_Boost/Buck电路.md",
-    "Altium Design/01 其他注意点.md",
-    "01 Plan.md",
-    "精控集成工作/一些常用术语.md",
+    "嵌入式面试/02 模电.md",
+    "精控集成工作/assets/Pasted image 20231201130508.png",
+    "精控集成工作/assets/Pasted image 20231201130355.png",
     "精控集成工作/电源芯片测试.md",
+    "精控集成工作/一些常用术语.md",
+    "精控集成工作/assets",
+    "精控集成工作",
+    "学习资源.md",
+    "大沙发/assets/截图_20231213223436.png",
+    "大沙发/assets/截图_20231213221805.png",
+    "大沙发/assets/截图_20231213220248.png",
+    "大沙发/按摩电机.md",
+    "大沙发/assets",
+    "大沙发",
+    "大沙发.zip",
+    "书籍/这几年要看的书籍.md",
+    "书籍",
+    "draw.io/未命名绘图.drawio",
+    "draw.io/~$未命名绘图.drawio.bkp",
+    "draw.io",
+    "assets/截图_20231215144147.png",
+    "assets/截图_20231212100524.png",
+    "assets/截图_20231207210036.png",
+    "assets/Pasted image 20231207210203.png",
+    "assets/PCB改版.pptx.md",
+    "assets/34fecc95ba735728d9c642725f5dc52.jpg",
+    "Solidworks/安装.md",
+    "Multisim/示波器.md",
+    "Multisim/assets",
+    "Labview/目录.md",
+    "Labview/快捷键.md",
+    "Labview/如何学习Labview.md",
+    "Labview/内容摘要.md",
+    "Labview/01 工程简介.md",
+    "CI2454/CI2454.md",
     "Buck_Boost/降压升压电路.md",
+    "Buck_Boost/Buck电路.md",
+    "Buck_Boost/Boost升压电路.md",
+    "Altium Design/铺铜篇.md",
+    "Altium Design/快捷键.md",
+    "Altium Design/常识.md",
+    "Altium Design/常见元器件.md",
     "Altium Design/一个好的原理图举例.md",
-    "Altium Design/常识.md"
+    "Altium Design/PCB设计前知识扫盲.md",
+    "Altium Design/PCB设计11小时.md",
+    "Altium Design/PCB布线规则与注意事项.md"
   ]
 }
