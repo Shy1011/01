@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Plan.md",
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "031349184c7433f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Plan.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Plan.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Plan.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -189,17 +201,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c3f19414f6bc6e59",
+  "active": "031349184c7433f9",
   "lastOpenFiles": [
+    "01 鼎堂/2023年12月9日.md",
+    "Diary.md",
+    "Readme.md",
+    "01 学校邮件.md",
+    "01 Plan.md",
+    "学习资源.md",
     "离职算不算应届/问题.md",
     "交通规则/红绿灯.md",
-    "01 Plan.md",
-    "01 学校邮件.md",
     "嵌入式面试/02 模电.md",
-    "精控集成工作/assets/Pasted image 20231201130508.png",
-    "精控集成工作/assets/Pasted image 20231201130355.png",
-    "精控集成工作/电源芯片测试.md",
-    "精控集成工作/一些常用术语.md",
-    "精控集成工作/assets"
+    "精控集成工作/assets/Pasted image 20231201130508.png"
   ]
 }
