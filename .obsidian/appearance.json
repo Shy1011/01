@@ -6,5 +6,8 @@
   "textFontFamily": "MV Boli",
   "monospaceFontFamily": "MV Boli",
   "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "images"
+  ]
 }
