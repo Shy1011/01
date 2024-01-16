@@ -1,5 +1,6 @@
 【干货 】6 个PCB layout 技巧详细总结，提前避免 PCB 布局错误 - 百芯 EMA的文章 - 知乎
 https://zhuanlan.zhihu.com/p/671957902
+[PCB 基本布线规范与设计原则 - 知乎](https://zhuanlan.zhihu.com/p/358113054)
 # 常用的
 
 

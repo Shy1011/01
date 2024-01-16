@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buck_Boost/Boost升压电路.md",
+                "file": "Altium Design/常见使用设备.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Boost",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buck_Boost/Boost升压电路.md",
+                "file": "Altium Design/常见使用设备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buck_Boost/Boost升压电路.md",
+                "file": "Altium Design/常见使用设备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buck_Boost/Boost升压电路.md"
+                "file": "Altium Design/常见使用设备.md"
               }
             }
           },
@@ -167,22 +167,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "canvas:Create new canvas": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9eaad155e9fe966c",
+  "active": "86787ef26c2088a5",
   "lastOpenFiles": [
+    "Altium Design/焊接时的温度选择.md",
+    "Altium Design/常见使用设备.md",
+    "Altium Design/01 其他注意点.md",
+    "Altium Design/01 资源.md",
+    "Altium Design/02 Altium Design 22 设计.md",
+    "Altium Design/常见元器件.md",
+    "Altium Design/常识.md",
+    "Altium Design/快捷键.md",
+    "Altium Design/铺铜篇.md",
+    "Altium Design/PCB布线规则与注意事项.md",
+    "Altium Design/PCB设计11小时.md",
+    "Altium Design/PCB设计规范.md",
+    "Altium Design/一个好的原理图举例.md",
     "Buck_Boost/Buck电路.md",
     "Buck_Boost/Boost升压电路.md",
     "仪器的使用/万用表.md",
     "仪器的使用/SLogic Combo 8.md",
-    "Altium Design/PCB设计规范.md",
     "Arduino/ESP8266.md",
     "Arduino/assets/截图_20240106213251.png",
     "未命名.md",
