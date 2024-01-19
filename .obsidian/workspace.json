@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altium Design/常见使用设备.md",
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altium Design/常见使用设备.md",
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altium Design/常见使用设备.md",
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altium Design/常见使用设备.md"
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "86787ef26c2088a5",
   "lastOpenFiles": [
-    "Altium Design/焊接时的温度选择.md",
     "Altium Design/常见使用设备.md",
+    "Altium Design/PCB走线宽度与电流大小的关系.md",
+    "Altium Design/焊接时的温度选择.md",
     "Altium Design/01 其他注意点.md",
     "Altium Design/01 资源.md",
     "Altium Design/02 Altium Design 22 设计.md",
