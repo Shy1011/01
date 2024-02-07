@@ -13,6 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
+                "file": "Arduino/04 连接网络.md",
+=======
                 "file": "Buck_Boost/Buck电路.md",
                 "mode": "source",
                 "source": false
@@ -25,6 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "3D建模/Introduction.md",
                 "mode": "source",
                 "source": false
@@ -62,13 +66,21 @@
               "type": "markdown",
               "state": {
                 "file": "Altium Design/常见使用设备.md",
+=======
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
+>>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< Updated upstream
         ],
         "currentTab": 4
+=======
+        ]
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,15 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "",
+=======
+<<<<<<< HEAD
+                "query": "ESP",
+=======
+                "query": "",
+>>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
+>>>>>>> Stashed changes
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +162,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Altium Design/常见使用设备.md",
+=======
+<<<<<<< HEAD
+                "file": "Arduino/04 连接网络.md",
+=======
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
+>>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +187,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Altium Design/常见使用设备.md",
+=======
+<<<<<<< HEAD
+                "file": "Arduino/04 连接网络.md",
+=======
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
+>>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +218,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Altium Design/常见使用设备.md"
+=======
+<<<<<<< HEAD
+                "file": "Arduino/04 连接网络.md"
+=======
+                "file": "Altium Design/PCB走线宽度与电流大小的关系.md"
+>>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
+>>>>>>> Stashed changes
               }
             }
           },
@@ -212,6 +256,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< Updated upstream
   "active": "5847e97d526907cc",
   "lastOpenFiles": [
     "Altium Design/01 资源.md",
@@ -225,5 +270,47 @@
     "Altium Design/焊接时的温度选择.md",
     "Altium Design/02 Altium Design 22 设计.md",
     "Altium Design/常见元器件.md"
+=======
+<<<<<<< HEAD
+  "active": "6c4223480f7b091c",
+  "lastOpenFiles": [
+    "Arduino/04 连接网络.md",
+    "3D建模/Introduction.md",
+    "Arduino/03 ESP8266环境设置.md",
+    "Arduino/02 Arduino 库.md",
+    "Arduino/01 与Slogic逻辑分析仪连接.md",
+    "交通规则/红绿灯.md",
+    "01 Solidworks/01 简介.md",
+    "01 Solidworks/安装.md",
+    "Buck_Boost/Buck电路.md",
+    "Buck_Boost/Boost升压电路.md"
+=======
+  "active": "86787ef26c2088a5",
+  "lastOpenFiles": [
+    "Altium Design/常见使用设备.md",
+    "Altium Design/PCB走线宽度与电流大小的关系.md",
+    "Altium Design/焊接时的温度选择.md",
+    "Altium Design/01 其他注意点.md",
+    "Altium Design/01 资源.md",
+    "Altium Design/02 Altium Design 22 设计.md",
+    "Altium Design/常见元器件.md",
+    "Altium Design/常识.md",
+    "Altium Design/快捷键.md",
+    "Altium Design/铺铜篇.md",
+    "Altium Design/PCB布线规则与注意事项.md",
+    "Altium Design/PCB设计11小时.md",
+    "Altium Design/PCB设计规范.md",
+    "Altium Design/一个好的原理图举例.md",
+    "Buck_Boost/Buck电路.md",
+    "Buck_Boost/Boost升压电路.md",
+    "仪器的使用/万用表.md",
+    "仪器的使用/SLogic Combo 8.md",
+    "Arduino/ESP8266.md",
+    "Arduino/assets/截图_20240106213251.png",
+    "未命名.md",
+    "Arduino/assets/Pasted image 20240106163323.png",
+    "Arduino/Arduino 库.md"
+>>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
+>>>>>>> Stashed changes
   ]
 }
