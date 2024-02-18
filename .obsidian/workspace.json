@@ -1,100 +1,39 @@
 {
   "main": {
-    "id": "26be6e44a3f7b015",
+    "id": "ba149b3b50586a42",
     "type": "split",
     "children": [
       {
-        "id": "b33677ce664a00db",
+        "id": "d170fc1cd9ab7dde",
         "type": "tabs",
         "children": [
           {
-            "id": "6c4223480f7b091c",
+            "id": "5ca4737c4143d8e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Arduino/04 连接网络.md",
-=======
-                "file": "Buck_Boost/Buck电路.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86787ef26c2088a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "3D建模/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "045f44dd5566d772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30933fa47d9ced56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D建模/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5847e97d526907cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altium Design/常见使用设备.md",
-=======
-                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
->>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
->>>>>>> Stashed changes
+                "file": "Altium Design/PCB常见符号.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-<<<<<<< Updated upstream
-        ],
-        "currentTab": 4
-=======
         ]
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "26e1e5d3af452183",
+    "id": "9c6810380ca5b1e1",
     "type": "split",
     "children": [
       {
-        "id": "a9b1df27cb5684f1",
+        "id": "11f2bfaad3188717",
         "type": "tabs",
         "children": [
           {
-            "id": "9eaad155e9fe966c",
+            "id": "868b3c1ad57d3fd4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,21 +43,13 @@
             }
           },
           {
-            "id": "1c146a0b596c84d4",
+            "id": "5aa196075108f6ec",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< Updated upstream
                 "query": "",
-=======
-<<<<<<< HEAD
-                "query": "ESP",
-=======
-                "query": "",
->>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
->>>>>>> Stashed changes
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -127,15 +58,7 @@
             }
           },
           {
-            "id": "d7869772ff4c7e78",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "333fa0b49abab429",
+            "id": "0380f34276280104",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -146,63 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "f445d6384d8614ff",
+    "id": "698d1c32b22add78",
     "type": "split",
     "children": [
       {
-        "id": "e646246a04444204",
+        "id": "0d9ff650b98aca29",
         "type": "tabs",
         "children": [
           {
-            "id": "6e50cc2bef56139b",
+            "id": "e7720831d4ccc827",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Altium Design/常见使用设备.md",
-=======
-<<<<<<< HEAD
-                "file": "Arduino/04 连接网络.md",
-=======
-                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
->>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
->>>>>>> Stashed changes
+                "file": "Altium Design/PCB常见符号.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3604fce247d5339b",
+            "id": "534e569fb601e41d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Altium Design/常见使用设备.md",
-=======
-<<<<<<< HEAD
-                "file": "Arduino/04 连接网络.md",
-=======
-                "file": "Altium Design/PCB走线宽度与电流大小的关系.md",
->>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
->>>>>>> Stashed changes
+                "file": "Altium Design/PCB常见符号.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aef463b2cbb2b080",
+            "id": "76b67749835c1700",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -213,104 +120,38 @@
             }
           },
           {
-            "id": "57de954126a76931",
+            "id": "d05154fa0954ca39",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Altium Design/常见使用设备.md"
-=======
-<<<<<<< HEAD
-                "file": "Arduino/04 连接网络.md"
-=======
-                "file": "Altium Design/PCB走线宽度与电流大小的关系.md"
->>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
->>>>>>> Stashed changes
+                "file": "Altium Design/PCB常见符号.md"
               }
             }
-          },
-          {
-            "id": "e6aa38276d9e3e1a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:打开命令面板": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "5847e97d526907cc",
+  "active": "5ca4737c4143d8e4",
   "lastOpenFiles": [
-    "Altium Design/01 资源.md",
-    "Altium Design/01 其他注意点.md",
-    "3D建模/Sloidwork安装包.md",
-    "3D建模/Introduction.md",
-    "未命名 2.md",
-    "未命名 1.md",
-    "Altium Design/PCB走线宽度与电流大小的关系.md",
-    "Altium Design/常见使用设备.md",
-    "Altium Design/焊接时的温度选择.md",
-    "Altium Design/02 Altium Design 22 设计.md",
-    "Altium Design/常见元器件.md"
-=======
-<<<<<<< HEAD
-  "active": "6c4223480f7b091c",
-  "lastOpenFiles": [
-    "Arduino/04 连接网络.md",
-    "3D建模/Introduction.md",
-    "Arduino/03 ESP8266环境设置.md",
-    "Arduino/02 Arduino 库.md",
-    "Arduino/01 与Slogic逻辑分析仪连接.md",
-    "交通规则/红绿灯.md",
-    "01 Solidworks/01 简介.md",
-    "01 Solidworks/安装.md",
-    "Buck_Boost/Buck电路.md",
-    "Buck_Boost/Boost升压电路.md"
-=======
-  "active": "86787ef26c2088a5",
-  "lastOpenFiles": [
-    "Altium Design/常见使用设备.md",
-    "Altium Design/PCB走线宽度与电流大小的关系.md",
-    "Altium Design/焊接时的温度选择.md",
-    "Altium Design/01 其他注意点.md",
-    "Altium Design/01 资源.md",
-    "Altium Design/02 Altium Design 22 设计.md",
-    "Altium Design/常见元器件.md",
-    "Altium Design/常识.md",
-    "Altium Design/快捷键.md",
-    "Altium Design/铺铜篇.md",
-    "Altium Design/PCB布线规则与注意事项.md",
-    "Altium Design/PCB设计11小时.md",
-    "Altium Design/PCB设计规范.md",
-    "Altium Design/一个好的原理图举例.md",
-    "Buck_Boost/Buck电路.md",
-    "Buck_Boost/Boost升压电路.md",
-    "仪器的使用/万用表.md",
-    "仪器的使用/SLogic Combo 8.md",
-    "Arduino/ESP8266.md",
-    "Arduino/assets/截图_20240106213251.png",
-    "未命名.md",
-    "Arduino/assets/Pasted image 20240106163323.png",
-    "Arduino/Arduino 库.md"
->>>>>>> d2d3eb8cbf42e5801aba5fe7f6f1b8441ec45237
->>>>>>> Stashed changes
+    "Altium Design/assets/Pasted image 20240218152641.png",
+    "嵌入式面试/02 模电.md",
+    "Altium Design/PCB常见符号.md",
+    "Altium Design/01 其他注意点.md"
   ]
 }
