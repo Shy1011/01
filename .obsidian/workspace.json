@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altium Design/常见使用设备.md",
+                "file": "Altium Design/快捷键.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2690217985e5d2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Altium Design/一些专业术语.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "温度",
+                "query": "AD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "698d1c32b22add78",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altium Design/常见使用设备.md",
+                "file": "Altium Design/快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altium Design/常见使用设备.md",
+                "file": "Altium Design/快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altium Design/常见使用设备.md"
+                "file": "Altium Design/快捷键.md"
               }
             }
           }
@@ -147,17 +159,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "868b3c1ad57d3fd4",
+  "active": "36be90ce9391cb91",
   "lastOpenFiles": [
+    "Altium Design/一些专业术语.md",
+    "Altium Design/快捷键.md",
+    "Altium Design/01 其他注意点.md",
+    "Altium Design/常见使用设备.md",
     "嵌入式面试/02 模电.md",
     "Altium Design/常识.md",
     "Altium Design/焊接.md",
     "Altium Design/焊接时的温度选择.md",
     "Altium Design/PCB布线规则与注意事项.md",
-    "Altium Design/常见使用设备.md",
-    "鼎堂/2023年12月12日.md",
-    "Altium Design/常见元器件.md",
-    "嵌入式面试/02 C语言面试题.md",
-    "嵌入式面试/02 C语言基础.md"
+    "鼎堂/2023年12月12日.md"
   ]
 }
