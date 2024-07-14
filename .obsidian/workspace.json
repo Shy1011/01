@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a138a222442f037",
+        "id": "40dfcdca7181f3ed",
         "type": "tabs",
         "children": [
           {
-            "id": "36be90ce9391cb91",
+            "id": "3d1674f9172777a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Altium Design/快捷键.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2690217985e5d2ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Altium Design/一些专业术语.md",
+                "file": "Altium Design/01 资源.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AD",
+                "query": "铺铜",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Altium Design/快捷键.md",
+                "file": "Altium Design/01 资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Altium Design/快捷键.md",
+                "file": "Altium Design/01 资源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Altium Design/快捷键.md"
+                "file": "Altium Design/01 资源.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,17 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "36be90ce9391cb91",
+  "active": "3d1674f9172777a9",
   "lastOpenFiles": [
-    "Altium Design/一些专业术语.md",
     "Altium Design/快捷键.md",
-    "Altium Design/01 其他注意点.md",
-    "Altium Design/常见使用设备.md",
-    "嵌入式面试/02 模电.md",
-    "Altium Design/常识.md",
-    "Altium Design/焊接.md",
-    "Altium Design/焊接时的温度选择.md",
-    "Altium Design/PCB布线规则与注意事项.md",
-    "鼎堂/2023年12月12日.md"
+    "Altium Design/铺铜篇.md",
+    "未命名.md",
+    "PI27.md",
+    "01 问题/未命名.md",
+    "Readme.md",
+    "滤波器/Filter.md",
+    "中创新航.md",
+    "问题.md",
+    "Altium Design/PCB设计11小时.md"
   ]
 }
